@@ -1,2 +1,2 @@
 # test
-test repository for git command practice
+test repository for git command practice basics
